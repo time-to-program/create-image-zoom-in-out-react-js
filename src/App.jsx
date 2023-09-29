@@ -1,7 +1,7 @@
 import React from 'react'
-import ImageZoomInOut from './ImageZoomInOut'
+import ImageZoomInOut from './components/ImageZoomInOut'
 
-const IMAGE_URL = 'YOUR_IMAGE_PATH_HERE'
+const IMAGE_URL = 'IMAGE_LINK_HERE'
 
 function App() {
   return (
